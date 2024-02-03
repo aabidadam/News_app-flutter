@@ -8,4 +8,6 @@
 Tech Stack
 
 Client: Flutter
+
+
 Server: News.org api
